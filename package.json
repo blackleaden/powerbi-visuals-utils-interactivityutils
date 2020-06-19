@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "d3": "5.9.7",
-    "powerbi-models": "1.2.1",
+    "powerbi-models": "1.3.4",
     "powerbi-visuals-utils-svgutils": "2.2.1",
     "powerbi-visuals-utils-typeutils": "2.2.1"
   }
